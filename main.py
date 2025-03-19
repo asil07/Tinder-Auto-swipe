@@ -32,6 +32,7 @@ login.click()
 time.sleep(5)
 # confirm = driver.find_element_by_name("__CONFIRM__")
 # confirm.click()
+# yangiliklar boladi
 
 driver.switch_to.window(base_window)
 
